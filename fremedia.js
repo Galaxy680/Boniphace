@@ -24,7 +24,7 @@ zokou({
       'image': {
         'url': _0x93b128
       },
-      'caption': "*powered by LUCKY_MD*"
+      'caption': "*powered by BONIPHACE_MD*"
     }, {
       'quoted': _0x4eb9fe
     });
